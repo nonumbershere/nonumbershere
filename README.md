@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**nonumbershere/nonumbershere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Undertale Controller
+- 🌱 I’m currently learning Lua, Python, Javascript and C#!
+- 🤔 I’m looking for help with Undertale Controller. Visit my [Discord](https://discord.gg/ZSe5M3jGeN) if you want to colaborate!
+- 📫 How to reach me: ```
+  https://discord.gg/ZSe5M3jGeN
+```
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I've been working on Undertale Controller for more than a year!
 
-Here are some ideas to get you started:
+```
+# ✔ Links ✔
+- ✅ [YouTube](https://www.youtube.com/channel/UCL3XW3JfhRCZpeHJOFAV56Q)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ [Discord](https://discord.gg/ZSe5M3jGeN)
