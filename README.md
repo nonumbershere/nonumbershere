@@ -1,3 +1,8 @@
+<h1 align = "center">Lapide</h1>
+  <p  align = "center"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/64395933?v=4"></img></p>
+  <hr>
+
+  
 ### Hi there, I'm Lapide 👋
 - 🔭 I’m currently working on Undertale Controller
 - 🌱 I’m currently learning Lua, Python, Javascript and C#!
