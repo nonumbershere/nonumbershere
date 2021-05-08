@@ -1,5 +1,5 @@
 <h1 align = "center">Lapide</h1>
-  <p  align = "center"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/64395933?v=4"></img></p>
+  <p  align = "center"><img src="https://avatars.githubusercontent.com/u/64395933?v=4"></img></p>
   <hr>
 
   
