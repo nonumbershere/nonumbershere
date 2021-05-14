@@ -5,8 +5,8 @@
   
 <h1  align = "center"> Hi there, I'm Lapide 👋 </h1>
 
-- 🎮 currently working on Undertale Controller
-- 🎇 looking for help with Undertale Controller. Visit my [Discord](https://discord.gg/ZSe5M3jGeN) if you want to colaborate!
+- 🎮 currently working on all sorts of programs!
+- 🎇 I'm looking for people to collaborate with! Visit my [Discord](https://discord.gg/ZSe5M3jGeN) if you want to colaborate!
 - 🧵 How to reach me: **Check Links**
 <h1  align = "center">✔ Links ✔</h1>
 
