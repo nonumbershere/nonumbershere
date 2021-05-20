@@ -6,7 +6,7 @@
 <h1  align = "center"> Hi there, I'm Lapide 👋 </h1>
 
 - 🎮 currently working on all sorts of programs!
-- 🎇 I'm looking for people to collaborate with! Visit my [Discord](https://discord.gg/ZSe5M3jGeN) if you want to colaborate!
+- 🎇 I'm looking for people to collaborate with! Visit my [Discord](https://discord.gg/NSqAwfSt2y) if you want to colaborate!
 - 🧵 How to reach me: **Check Links**
 <h1  align = "center">✔ Links ✔</h1>
 
@@ -29,3 +29,9 @@
 <p align = "center">
   <img src = "https://github-readme-quotes.herokuapp.com/quote?theme=nightowl&animation=grow_out_in&layout=churchill&font=Redressed" >
 </p>
+
+<h1 align = "center">Help</h1>
+<p align = "center">
+  <b>Having problems? Join my Discord!</b>
+  <a href="https://discord.gg/NSqAwfSt2y"><img src="https://discord.com/api/guilds/844672127420203018/widget.png?style=banner4" /></a>
+  </p>
