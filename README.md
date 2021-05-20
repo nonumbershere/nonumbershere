@@ -32,6 +32,10 @@
 
 <h1 align = "center">Help</h1>
 <p align = "center">
-  <b>Having problems? Join my Discord!</b>
+  
+ <li><b>Having problems? Join my Discord!</b>
+  </li>
+  <br>
+  
   <a href="https://discord.gg/NSqAwfSt2y"><img src="https://discord.com/api/guilds/844672127420203018/widget.png?style=banner4" /></a>
   </p>
