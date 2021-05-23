@@ -39,3 +39,20 @@
   
   <a href="https://discord.gg/NSqAwfSt2y"><img src="https://discord.com/api/guilds/844672127420203018/widget.png?style=banner4" /></a>
   </p>
+  <h2>More Links</h2>
+<details>
+  <summary>Languages</summary>
+  
+  - [x] Javascript
+  - [x] Python
+  - [x] C#
+  - [x] C++
+  - [x] HTML
+  - [ ] Java
+  
+  </details>
+  
+  <details>
+    <summary>Links</summary>
+    <li><a href="https://www.youtube.com/channel/UCL3XW3JfhRCZpeHJOFAV56Q?sub_confirmation=1">YouTube</a></li>
+  </details>
