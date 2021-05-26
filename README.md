@@ -14,6 +14,10 @@
 
 - ✅ [Discord](https://discord.gg/ZSe5M3jGeN)
 
+- ✅ [SRB2 Editor](https://srb2-editor.glitch.me/)
+
+- ✅ [CoolBlox - EpicBlox](https://epicblox.glitch.me/home.html) - By me and my friend
+
 <h1 align = "center"> More Information </h1>
 <p align = "center">
 
