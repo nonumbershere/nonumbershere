@@ -51,8 +51,13 @@
   - [x] Python
   - [x] C#
   - [x] C++
+  - [x] Batch
   - [x] HTML
+  - [x] TypeScript
+  - [ ] Objective C
+  - [ ] Ruby
   - [ ] Java
+  - [ ] C
   
   </details>
   
