@@ -39,7 +39,7 @@
   </li>
   <br>
   
-  <a href="https://discord.gg/NSqAwfSt2y"><img src="https://discord.com/api/guilds/844672127420203018/widget.png?style=banner4" /></a>
+  <a href="https://discord.gg/N6vQDFv9gg"><img src="https://discord.com/api/guilds/844672127420203018/widget.png?style=banner4" /></a>
   </p>
   <h2>More Links</h2>
 <details>
