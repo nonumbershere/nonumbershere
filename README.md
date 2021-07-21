@@ -12,11 +12,9 @@
 
 - ✅ [YouTube](https://www.youtube.com/channel/UCL3XW3JfhRCZpeHJOFAV56Q)
 
-- ✅ [Discord](https://discord.gg/ZSe5M3jGeN)
+- ✅ [SRB2 Hacking Discord](https://discord.gg/N6vQDFv9gg)
 
 - ✅ [SRB2 Editor](https://srb2-editor.glitch.me/)
-
-- ✅ [CoolBlox - EpicBlox](https://epicblox.glitch.me/home.html) - By me and my friend
 
 <h1 align = "center"> More Information </h1>
 <p align = "center">
