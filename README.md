@@ -2,12 +2,12 @@
   <p  align = "center"><img src="https://avatars.githubusercontent.com/u/64395933?v=4" width="200"></img></p>
   <hr>
 
-  
+
 <h1  align = "center"> Hi there, I'm Lapide 👋 </h1>
 
 - 🎮 currently working on all sorts of programs!
 - 🎇 I'm looking for people to collaborate with! Visit my [Discord](https://discord.gg/NSqAwfSt2y) if you want to colaborate!
-- 🧵 How to reach me: **Check Links**
+- 🧵 How to reach me: **Check Links or Contact**
 
 <h1 align = "center">Upload</h1>
 
@@ -21,6 +21,9 @@
 
 - ✅ [SRB2 Editor](https://srb2-editor.glitch.me/)
 
+<h1 align = "center"> Contact </h1>
+<h4>Discord: Lapide#8178</h4>
+  <img src="https://discord.c99.nl/widget/theme-2/911077679460139079.png">
 <h1 align = "center"> More Information </h1>
 <p align = "center">
 
