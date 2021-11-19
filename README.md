@@ -4,11 +4,13 @@
 
   
 <h1  align = "center"> Hi there, I'm Lapide 👋 </h1>
+
 - 🎮 currently working on all sorts of programs!
 - 🎇 I'm looking for people to collaborate with! Visit my [Discord](https://discord.gg/NSqAwfSt2y) if you want to colaborate!
 - 🧵 How to reach me: **Check Links**
 
 <h1 align = "center">Upload</h1>
+
 - What do I do if I wan't to upload a video about my tools?
 - You should show full credits about me, show my YouTube and Github. Or you can just show this link https://lapide.carrd.co/
 <h1  align = "center">✔ Links ✔</h1>
