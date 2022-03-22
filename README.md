@@ -15,9 +15,7 @@
 - You should show full credits about me, show my YouTube and Github. Or you can just show this link https://lapide.carrd.co/
 <h1  align = "center">✔ Links ✔</h1>
 
-- ✅ [YouTube](https://www.youtube.com/channel/UCL3XW3JfhRCZpeHJOFAV56Q)
-
-- ✅ [Credits](https://lapide.carrd.co/)
+- ✅ [Card](https://lapide.carrd.co/)
 
 - ✅ [SRB2 Editor](https://srb2-editor.glitch.me/)
 
