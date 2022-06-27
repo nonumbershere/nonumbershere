@@ -6,7 +6,7 @@
 <h1  align = "center"> Hi there, I'm Lapide 👋 </h1>
 
 - 🎮 currently working on all sorts of programs!
-- 🎇 I'm looking for people to collaborate with! Visit my [Discord](https://discord.gg/NSqAwfSt2y) if you want to colaborate!
+- 🎇 I'm looking for people to collaborate with! Visit my [Discord](https://discord.gg/xa6F6hxwXp) if you want to colaborate!
 - 🧵 How to reach me: **Check Links or Contact**
 
 <h1 align = "center">Upload</h1>
@@ -15,9 +15,7 @@
 - You should show full credits about me, show my YouTube and Github. Or you can just show this link https://lapide.carrd.co/
 <h1  align = "center">✔ Links ✔</h1>
 
-- ✅ [Card](https://lapide.carrd.co/)
-
-- ✅ [SRB2 Editor](https://srb2-editor.glitch.me/)
+- ✅ [CS:GO Clicker Fake Item Creator](https://fake-item-creator.glitch.me/)
 
 <h1 align = "center"> Contact </h1>
 <h4>Discord: Lapide#8178</h4>
@@ -33,10 +31,6 @@
 
   
 </p>
-<h1 align = "center">Your daily quote!<h1>
-<p align = "center">
-  <img src = "https://github-readme-quotes.herokuapp.com/quote?theme=nightowl&animation=grow_out_in&layout=churchill&font=Redressed" >
-</p>
 
 <h1 align = "center">Help</h1>
 <p align = "center">
@@ -45,7 +39,7 @@
   </li>
   <br>
   
-  <a href="https://discord.gg/N6vQDFv9gg"><img src="https://discord.com/api/guilds/844672127420203018/widget.png?style=banner4" /></a>
+  <a href="https://discord.gg/xa6F6hxwXp"><img src="https://discord.com/api/guilds/911757054337749043/widget.png?style=banner4" /></a>
   </p>
   <h2>More Links</h2>
 <details>
