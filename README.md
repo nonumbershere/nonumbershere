@@ -1,7 +1,7 @@
 <h1 align = "center">I'm Lapide</h1>
-  <p  align = "center"><img src="https://avatars.githubusercontent.com/u/64395933?v=4" width="200"></img></p>
-
-<h2>Socials</h2>
+  <p  align = "center"><img src="./assets/earth.gif" width="200"></img></p>
+<hr>
+<h2>💬 Socials</h2>
 <li><a href="https://www.youtube.com/channel/UCRA3KXViuDmsmfuP0RF45_w"><b>YouTube Channel</b></a>
 <li><a href="https://discord.gg/TPRXwZbC"><b>Discord Server</b></a>
   
